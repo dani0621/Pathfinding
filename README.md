@@ -1,5 +1,5 @@
 # Machine Learning & AI Project 4: A* Pathfinding
-## Danielle Li<br />Ocotber 21st, 2024
+## Danielle Li<br />November 22nd, 2024
 <div align="center">
   <img width="450" alt="nbaLogo" src="https://github.com/user-attachments/assets/c5dbf1cf-d41c-473b-8682-8b880bf427ff">
 </div>
